@@ -1,0 +1,147 @@
+.header-search {
+    grid-column: 2/3;
+}
+.search-form {
+    position: relative;
+    border-radius: 5px;
+}
+.hidden{
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute!important;
+    width: 1px;
+}
+.search_new{
+    outline: none;
+    box-shadow: none;
+    
+}
+.search-button{
+    background: #fff url("../img/SVG/magnifying-glass.svg") 0 0 no-repeat;
+    height: 21px;
+    padding: 12px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 21px;
+}
+#back-color{
+    background-color: black;
+    position: relative;
+    bottom: 37px;
+
+}
+.top-nav{
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0 0 1px;
+    position: relative;
+    font-size: 0;
+    left: 21px;
+}
+.item1{
+    user-select: none;
+    text-align: center;
+    display: inline-block;
+    vertical-align: bottom
+}
+#image1{
+    position: relative;
+    left: 40px;
+    text-align: center;
+    background-color: white;
+    bottom: -9px;
+}
+#image2{
+    position: relative;
+    left: 132px;
+    text-align: center;
+    background-color: white;
+    bottom: -9px;
+}
+#image3{
+    position: relative;
+    left: 261px;
+    text-align: center;
+    background-color: white;
+    bottom: -9px;
+}
+#image4{
+    position: relative;
+    left: 736px;
+    text-align: center;
+    background-color: white;
+    bottom: 17px;
+}
+.hyperlinks{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 550px;
+}
+#hotel{
+    position: relative;
+    left:69px;
+    text-align: center;
+}
+#flight{
+    position: relative;
+    left: 172px;
+
+}
+#car{
+    position: relative;
+    left: 304px;
+
+}
+#tour{
+    position: relative;
+    left: 781px;
+    top: -19px;
+}
+#main{
+    height: 250px;
+    width: 1073px;
+    background-color: white;
+    position: relative;
+    top: 8px;
+}
+p{
+    margin: -0.5em -21.8em 0.6em 0.2em;
+    padding: 0;
+    text-align: justify;
+    color: #000;
+    font-size: 16px!important;
+
+}
+li{
+    display: inline;
+}
+#para2{
+    margin: -0.5em -21.8em 0.6em 0.2em;
+    padding: 0;
+    text-align: justify;
+    color: #000;
+    font-size: 16px!important;
+    position: relative;
+    bottom: -21px;
+
+}
+#line{
+    position: absolute;
+    bottom: 48px;
+    width: 31%;
+}
+.gallery{
+    width: 500px;
+}
+.points{
+    list-style: armenian;
+}
